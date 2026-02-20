@@ -1,0 +1,9 @@
+algorithm,case,success_rate(%),median,ci_low,ci_high
+GD,isotropic,0.0,,,
+GD,independent,0.0,,,
+GD,aligned,26.0,1711.0,1353.0,1868.0
+GD,misaligned,0.0,,,
+Nesterov,isotropic,100.0,612.0,584.5,780.0
+Nesterov,independent,100.0,599.0,,
+Nesterov,aligned,100.0,175.0,,
+Nesterov,misaligned,100.0,1111.0,915.0,1136.0
